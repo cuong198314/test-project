@@ -2,7 +2,7 @@
 module.exports = {
     outputDir: 'docs',
     assetsDir: 'assets',
-    publicPath: '',
+    publicPath: ""
     runtimeCompiler: true
   }
 
